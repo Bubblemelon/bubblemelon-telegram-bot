@@ -3,5 +3,6 @@ My first telegram bot. This is just for fun. Come say "Hi !"
 
 ## @BubbleMelonBot
 
-## Access this here:
-https://t.me/Bubblemelonbot
+## Links
+Telegram’s web interface : https://web.telegram.org/
+Bubblemelon's bot page   : https://t.me/Bubblemelonbot
