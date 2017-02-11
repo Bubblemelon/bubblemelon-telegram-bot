@@ -16,4 +16,5 @@ Bubblemelon's bot page   : [https://t.me/Bubblemelonbot](https://t.me/Bubblemelo
 5. Handles unknown/undefined/miss-spelled function calls.
 
 *Currently offline
+
 *Bots need to be deployed on a server.
