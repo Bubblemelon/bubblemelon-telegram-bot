@@ -18,3 +18,11 @@ Bubblemelon's bot page   : [https://t.me/Bubblemelonbot](https://t.me/Bubblemelo
 *Currently offline
 
 *Bots need to be deployed on a server.
+
+## Reference
+
+This library provides a pure Python interface for the Telegram Bot API:
+
+`$ pip install python-telegram-bot`
+or
+`$ pip3 install python-telegram-bot`
